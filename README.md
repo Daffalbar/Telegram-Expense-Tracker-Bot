@@ -7,10 +7,7 @@ A simple Telegram bot to track your daily expenses and log them into Google Shee
 expense-tracker-telegram-bot/
 ├── credentials.json          # Google API credentials
 ├── .env                      # Environment variables (Telegram Token, Sheet Name)
-├── main.py                   # Main bot script
-├── requirements.txt          # Project dependencies
-├── LICENSE                   # MIT License
-└── README.md                 # Project documentation
+└── main.py                   # Main bot script
 ```
 
 ## 🚀 Features
@@ -52,7 +49,7 @@ python main.py
 ```
 
 ## 🧠 How It Works
-- User sends a message: `Beli makan siang 30000`
+- User sends a message: `Beli Batagor 12000`
 - Bot parses the message → logs timestamp, description, and amount to Google Sheets
 - `/rekap` command summarizes today’s expenses from the Sheet
 
@@ -74,4 +71,4 @@ Contributions are welcome! If you have suggestions, bug fixes, or improvements, 
 This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
 
 ---
-Made with ❤️ by M. Daffa Aulia Albar
+Made by M. Daffa Aulia Albar
