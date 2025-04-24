@@ -39,7 +39,7 @@ SHEET_NAME=your_sheet_name
 ```
 
 ### 4. Main Bot Script Setup
-1. Create main.py file
+1. Create new file and give it name `main.py`
 2. Copy [main.py](./main.py) file to your main.py file.
 
 ### 5. Run the Bot
