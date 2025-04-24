@@ -11,7 +11,7 @@ expense-tracker-telegram-bot/
 ```
 
 ## 🚀 Features
-- Track expenses by sending messages like `Buy coffee 15000`
+- Track expenses by sending messages like `Beli Kopi 15000`
 - Auto-log expenses to Google Sheets with timestamp
 - Use `/rekap` to get a daily expense summary
 
@@ -38,10 +38,8 @@ TELEGRAM_TOKEN=your_bot_token
 SHEET_NAME=your_sheet_name
 ```
 
-### 4. Install Dependencies
-```
-pip install -r requirements.txt
-```
+### 4. Main Bot Script Setup
+Copy [main.py](./main.py) file.
 
 ### 5. Run the Bot
 ```
