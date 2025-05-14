@@ -61,13 +61,5 @@ python main.py
 ## 🤝 Contributing
 Contributions are welcome! If you have suggestions, bug fixes, or improvements, feel free to open an issue or submit a pull request. Please follow standard Python coding conventions.
 
-## 🙏 Credits
-- Telegram Bot API by [Telegram](https://core.telegram.org/bots/api)
-- Google Sheets API by [Google Cloud](https://cloud.google.com/sheets)
-- Inspired by the need to simplify personal expense tracking
-
 ## 📄 License
 This project is licensed under the MIT License — see the [LICENSE](./LICENSE) file for details.
-
----
-Made by M. Daffa Aulia Albar
